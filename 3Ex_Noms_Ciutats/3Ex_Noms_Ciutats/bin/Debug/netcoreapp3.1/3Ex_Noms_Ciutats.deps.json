@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "3Ex_Noms_Ciutats/1.0.0": {
+        "runtime": {
+          "3Ex_Noms_Ciutats.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3Ex_Noms_Ciutats/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\erica\Documents\GiT\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\bin\Debug\netcoreapp3.1\3Ex_Noms_Ciutats.exe
+C:\Users\erica\Documents\GiT\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\bin\Debug\netcoreapp3.1\3Ex_Noms_Ciutats.deps.json
+C:\Users\erica\Documents\GiT\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\bin\Debug\netcoreapp3.1\3Ex_Noms_Ciutats.runtimeconfig.json
+C:\Users\erica\Documents\GiT\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\bin\Debug\netcoreapp3.1\3Ex_Noms_Ciutats.runtimeconfig.dev.json
+C:\Users\erica\Documents\GiT\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\bin\Debug\netcoreapp3.1\3Ex_Noms_Ciutats.dll
+C:\Users\erica\Documents\GiT\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\bin\Debug\netcoreapp3.1\3Ex_Noms_Ciutats.pdb
+C:\Users\erica\Documents\GiT\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\obj\Debug\netcoreapp3.1\3Ex_Noms_Ciutats.csprojAssemblyReference.cache
+C:\Users\erica\Documents\GiT\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\obj\Debug\netcoreapp3.1\3Ex_Noms_Ciutats.AssemblyInfoInputs.cache
+C:\Users\erica\Documents\GiT\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\obj\Debug\netcoreapp3.1\3Ex_Noms_Ciutats.AssemblyInfo.cs
+C:\Users\erica\Documents\GiT\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\obj\Debug\netcoreapp3.1\3Ex_Noms_Ciutats.csproj.CoreCompileInputs.cache
+C:\Users\erica\Documents\GiT\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\obj\Debug\netcoreapp3.1\3Ex_Noms_Ciutats.dll
+C:\Users\erica\Documents\GiT\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\obj\Debug\netcoreapp3.1\3Ex_Noms_Ciutats.pdb
+C:\Users\erica\Documents\GiT\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\3Ex_Noms_Ciutats\obj\Debug\netcoreapp3.1\3Ex_Noms_Ciutats.genruntimeconfig.cache
